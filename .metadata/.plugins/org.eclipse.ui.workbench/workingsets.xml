@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1566788865405_0" label="imooc-netty" name="imooc-netty">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/imooc-netty-hello" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/imooc-netty-mybatis" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/imooc-muxin-netty" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1566794996769_1" label="Window Working Set" name="Aggregate for window 1566794996769"/>
+</workingSetManager>
